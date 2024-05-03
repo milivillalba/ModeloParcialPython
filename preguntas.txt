@@ -1,0 +1,19 @@
+1: Preguntas teóricas
+● ¿Qué es Python y por qué es popular en el análisis de datos?
+  REPUESTA:
+    Pythones un lenguaje de progrmacion interprete de alto nivel y de codigo abierto.
+    Es popular en analisis de datos debido a su facilidad de uso, a su amplia disponibiidad 
+    de bibliotecas, a su comunid activa y a su capacidad de integrarse con otras herramientas.
+● Explica la diferencia entre una lista y una tupla en Python.
+   RESPUESTA: La diferencia entre una lista y unatupla , principalmente es la mutabilidad , ya que
+   las listas son mutables osea que su valor se puede cambiar despuesde crearla y de lo contrario una tupla es inmutable , una vez creada su valor no puede ser modificado.
+● ¿Qué son los diccionarios en Python y para qué se utilizan comúnmente?
+ RESPUESTA:Los dicionarios en python son estructuras dedatos que representan una coleccion de pares clave valor, se utiiza comunmente para almacenar y organizar datos relacionados y
+           tambien para realiar busquedas rapidas por clave .
+● ¿Qué diferencia el operador de bucle “for” de python con respecto al
+javascript?
+ RESPUESTA: Unas de las principales diferencia es la sintaxis , otra esla forma en la que se interan, por ejmeplo el bucle for en python itera sobre los elementos de una secuencia(listas,tuplas),
+ y un bucle for en javascrip itera sobre un rango numerico,por lo cual esto hace que su sintaxi sea diferente.
+● ¿Qué es un entorno virtual en Python y por qué es útil?
+RESPUESTA: Unentorno virtules es un directorio que permite crear un ambiente aislado, que te permite localizar la instalacion de dependencias de tu proyecto.
+Es util porque tepermite tener varios entonos , con varios conjuntos de paquetes sin conflicto entre ellos.
